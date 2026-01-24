@@ -8,7 +8,7 @@ and decision-ready business reports.
 
 ---
 
-## ✅ Core Expertise
+## ⚡ Core Expertise
 
 - Data Analytics & Reporting  
 - Dashboard Development (Power BI / Tableau)  
