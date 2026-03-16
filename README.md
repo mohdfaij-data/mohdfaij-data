@@ -40,6 +40,11 @@ and decision-ready business reports.
 
 ---
 
+## 📄 Resume
+[Download My Resume](./mohdfaij_resume.pdf)
+
+---
+
 ## 📫 Contact
 
 📧 Email: mohdfaij.data@gmail.com  
