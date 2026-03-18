@@ -1,4 +1,4 @@
-# MOHD FAIJ
+# Mohd Faij
 
 📊 Data Analyst | Business Intelligence | AI-Driven Analytics  
 🎓 B.Com Graduate | Finance & Business Analytics Background  
