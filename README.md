@@ -24,7 +24,6 @@
 ---
 ```python
 # mohdfaij.py
-
 name     = "Mohd Faij"
 role     = "Data Analyst | Power BI Developer"
 location = "Prayagraj, India"
