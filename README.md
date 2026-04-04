@@ -6,7 +6,7 @@
 <br/>
 
 <!-- STATUS BADGES -->
-![Location](https://img.shields.io/badge/📍_Prayagraj,_India-D4A017?style=flat-square&labelColor=0d1117&color=0d1117&logoColor=D4A017)
+![Location](https://img.shields.io/badge/📍_Lucknow,_India-D4A017?style=flat-square&labelColor=0d1117&color=0d1117&logoColor=D4A017)
 ![Status](https://img.shields.io/badge/●_Open_to_Projects-3fb950?style=flat-square&labelColor=0d1117&color=0d1117)
 ![Upwork](https://img.shields.io/badge/💼_Upwork_Freelancer-D4A017?style=flat-square&labelColor=0d1117&color=0d1117)
 ![Education](https://img.shields.io/badge/🎓_B.Com_Graduate-8b949e?style=flat-square&labelColor=0d1117&color=0d1117)
