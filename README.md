@@ -128,3 +128,8 @@ Full Jupyter notebook with Seaborn visualizations, outlier detection, correlatio
 > KKBOX Music Streaming Dataset · Python + XGBoost + Power BI
 
 Five-phase pipeline tracking user journeys from **trial → active → churned**, building monthly cohort retention heatmaps, deploying an XGBoost churn classifier with SHAP waterfall explainability, and visualizing everything in a final Power BI dashboard.
+<!-- PROFILE VIEWS COUNTER -->
+![Profile Views](https://komarev.com/ghpvc/?username=mohdfaij-data&color=D4A017&style=flat-square&label=Profile+Views)
+
+<!-- WAKATIME (if you install the VS Code extension) -->
+[![wakatime](https://wakatime.com/badge/user/YOUR_ID.svg?style=flat-square)](https://wakatime.com/@mohdfaij-data)
