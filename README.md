@@ -130,5 +130,3 @@ Five-phase pipeline tracking user journeys from **trial → active → churned**
 <!-- PROFILE VIEWS COUNTER -->
 ![Profile Views](https://komarev.com/ghpvc/?username=mohdfaij-data&color=D4A017&style=flat-square&label=Profile+Views)
 
-<!-- WAKATIME (if you install the VS Code extension) -->
-[![wakatime](https://wakatime.com/badge/user/YOUR_ID.svg?style=flat-square)](https://wakatime.com/@mohdfaij-data)
